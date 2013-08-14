@@ -1,6 +1,6 @@
 //NSTORM reconstructor with drift correction by fiducial
 //Author: Yoshiyuki Arai
-//Data: 2013.08.14
+//Data: 2013.08.05
 macro NSTROMreconstructor {
 	// read rapidSTORM text data
 	NSTORMfile = File.openDialog("Select NSTORM text data");
